@@ -1,0 +1,50 @@
+# FISOTEC
+> Empresa tecnológica española especializada en inventarios urbanos para Smart Cities. Combina GIS, Mobile Mapping, Láser Escáner 3D, Inteligencia Artificial y plataforma SaaS propia para digitalizar y gestionar infraestructuras públicas con la máxima calidad del dato. Más de 15 años de trayectoria, +100 ayuntamientos, +2.500 proyectos ejecutados, +1.000 TB de datos geoespaciales procesados. Opera en España, Portugal y Latinoamérica.
+
+## Servicios
+
+### Inventario Essential
+GIS tradicional con validación algorítmica para digitalización de infraestructuras urbanas. Captura en campo con GPS/GNSS, drones UAV, tablets y software QField/ArcGIS Field Maps. Bases de datos espaciales en PostgreSQL/PostGIS o ESRI. Aplicaciones: alumbrado público, redes de agua y saneamiento, zonas verdes, mobiliario urbano, callejeros digitales. Entregables: .SHP, GeoJSON, .DWG, informes técnicos.
+
+### Inventario Smart BIM
+Creación de Gemelos Digitales mediante Láser Escáner 3D y metodología Scan-to-BIM. Hardware: Leica BLK2GO. Software: Revit, Archicad, Civil3D, ArcGIS GeoBIM. Entregables: nubes de puntos (.E57, .LAS, .LAZ), modelos BIM (.IFC), planimetría 2D. Aplicaciones: eficiencia energética, rehabilitación, patrimonio histórico BIC, control de obra, accesibilidad universal.
+
+### Inventario 360º — Mobile Mapping
+Captura masiva con vehículos Leica Pegasus equipados con cámaras multilente 360º y escáneres LiDAR. El vehículo circula a velocidad normal de tráfico mientras los sensores registran simultáneamente imágenes panorámicas y nubes de puntos 3D del entorno, permitiendo inventariar grandes extensiones de vía en pocas horas. Procesado con UBIQUA-IA: detección automática de activos, geoposicionamiento con error inferior a 25 cm, diagnóstico de estado (Bien/Mal). Aplicaciones: señalización vertical y horizontal, alumbrado público, pavimentación, biondas, mobiliario urbano, catastro urbano.
+
+### UBIQUA-IA
+Plataforma SaaS propia que integra captura de datos, Visión Artificial, GIS y GMAO en un único entorno. Motor de IA entrenado con más de 2 millones de imágenes urbanas. Permite inventariar infraestructuras urbanas a velocidad de tráfico, generar automáticamente Gemelos Digitales georreferenciados y gestionar el mantenimiento de activos mediante órdenes de trabajo automáticas. Dashboard multiproyecto y control de usuarios y roles. Contratación modular posible.
+
+## Clientes objetivo
+- Administraciones Públicas: ayuntamientos, diputaciones, consejerías, administración central
+- Empresas concesionarias y gestoras de servicios urbanos: alumbrado, agua, saneamiento, carreteras
+- Empresas constructoras y mantenedoras de obra civil
+- Despachos de ingeniería y arquitectura BIM
+- Entidades turísticas y de patrimonio
+
+## Casos de éxito destacados
+- Alumbrado Madrid Lote 3: actualización de 94.000 puntos de luz para contrato de mantenimiento
+- Teatro Barceló (Madrid): modelo BIM 3D para clasificación como Bien de Interés Cultural
+- Hotel Doña María (Sevilla): modelo BIM con climatización y electricidad para eficiencia energética
+- Estación Príncipe Pío (Madrid): modelado BIM para app de accesibilidad Waymap (invidentes y PMR)
+- Edificios municipales Molins de Rei: gemelos digitales de 8 edificios para mejora de envolvente térmica
+- Presas Confederación Hidrográfica del Ebro: digitalización con láser 3D y LiDAR aéreo de 30 presas con error máximo de 1 cm entre nubes estáticas, sin documentación de precisión milimétrica previa
+- Calle 30 (Madrid): inventario de alumbrado y señalización con Leica Pegasus en entorno de alto tráfico
+- Caravaca de la Cruz (Murcia): inventario de señalización y alumbrado con detección de estado
+- Callejero digital 35 municipios Málaga: actualización CDAU para Emergencias 112
+- Agua potable Granada: trazado e inventario de 14.000 acometidas
+
+## Tecnología
+- Captura: Leica Pegasus, Leica BLK2GO, Leica RTC360, DJI Matrice 350 RTK + LiDAR L2, GPS/GNSS, drones UAV
+- Procesado: UBIQUA-IA, TensorFlow/Deep Learning, ArcGIS ESRI, QGIS, PostgreSQL/PostGIS
+- BIM: Autodesk Revit, Graphisoft Archicad, AutoCAD Civil3D, ArcGIS GeoBIM
+- Campo: QField, ArcGIS Field Maps
+
+## Seña de identidad
+Obsesión por la calidad del dato. Validación mediante algoritmos propios + cruce con fuentes oficiales (Catastro, CDAU, Open Street Maps, Cartociudad, EIEL) + revisión manual por técnicos cualificados antes de entrega definitiva.
+
+## Contacto
+- Web: https://fisotecsolutions.com
+- Email: hello@fisotecsolutions.com
+- Teléfono: 953 562 275 / 647 335 053
+- Sede: C/ Eduardo Ortiz Mata, Ed. CEISAL s/n, Pol. Ind. Los Pozuelos, Alcaudete (Jaén) 23660
