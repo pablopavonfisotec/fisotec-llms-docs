@@ -1,39 +1,19 @@
-# FISOTEC
+# Contenido de FISOTEC
 
-> Empresa tecnológica española especializada en inventarios urbanos para Smart Cities. Combina GIS, Mobile Mapping, Láser Escáner 3D e Inteligencia Artificial para digitalizar y gestionar infraestructuras públicas. +15 años de experiencia, +100 ayuntamientos, +2.500 proyectos ejecutados, +1.000 TB de datos geoespaciales procesados.
+**Empresa**: Especialista española en inventarios urbanos para Smart Cities, con +15 años de trayectoria, +100 municipios clientes y +2.500 proyectos completados.
 
-El diferenciador clave de FISOTEC es la calidad del dato: validación algorítmica propia, cruce con fuentes oficiales (Catastro, CDAU, Cartociudad, EIEL) y revisión manual por técnicos antes de cada entrega.
+**Diferenciador principal**: "validación algorítmica propia, cruce con fuentes oficiales (Catastro, CDAU, Cartociudad, EIEL) y revisión manual" de datos geoespaciales.
 
-## Servicios
+**Servicios ofrecidos**:
+- Inventario Essential: Digitalización GIS de infraestructuras (alumbrado, agua, saneamiento, zonas verdes)
+- Inventario Smart BIM: Gemelos digitales mediante láser 3D y metodología Scan-to-BIM
+- Inventario 360°: Captura móvil masiva con error de posicionamiento inferior a 25 cm
+- UBIQUA-IA: Plataforma SaaS integrada con Visión Artificial y GMAO
 
-- [Inventario Essential](https://fisotecsolutions.com/inventario-essential): Digitalización GIS de infraestructuras urbanas con GPS/GNSS, drones UAV y tablets de campo. Cubre alumbrado público, redes de agua y saneamiento, zonas verdes, señalización y callejeros digitales. Entregables en .SHP, GeoJSON y .DWG.
+**Tecnología utilizada**: Equipos Leica (Pegasus, BLK2GO), drones DJI, software GIS (ArcGIS, QGIS), Deep Learning y bases de datos PostGIS.
 
-- [Inventario Smart BIM — Gemelos Digitales](https://fisotecsolutions.com/inventario-smart-bim): Láser Escáner 3D (Leica BLK2GO) y metodología Scan-to-BIM para generar gemelos digitales de edificios e infraestructuras. Modelado en Revit, Archicad y formato IFC. Aplicaciones en rehabilitación energética, patrimonio histórico y accesibilidad.
+**Casos destacados**: Scan-to-BIM en 23 comisarías de la Policía Nacional con Leica RTC360; digitalización de 30 presas para la Confederación Hidrográfica del Ebro; proyectos con la Diputación de Málaga y La Línea de la Concepción.
 
-- [Inventario 360° — Mobile Mapping](https://fisotecsolutions.com/inventario-360): Captura masiva con vehículos Leica Pegasus equipados con cámaras 360° y LiDAR, circulando a velocidad normal de tráfico. Error de geoposicionamiento inferior a 25 cm. Detección y clasificación automática de activos urbanos con Visión Artificial.
+**Blog**: Artículos técnicos sobre GIS, Mobile Mapping, BIM y gemelos digitales en fisotecsolutions.com/blogs — incluye "Smart City: por qué empieza por el inventario de infraestructuras urbanas".
 
-- UBIQUA-IA: Plataforma SaaS propia que integra captura, Visión Artificial, GIS y GMAO. Motor de IA entrenado con más de 2 millones de imágenes urbanas. Incluye módulo GMAO (Indiva SaaS URBAN) para órdenes de trabajo automáticas y app móvil para operarios en campo.
-
-## Casos de estudio
-
-- [30 presas de la Confederación Hidrográfica del Ebro](https://fisotecsolutions.com/casos-de-estudio/nubes-de-puntos-presas-confederacion-hidrografica-ebro): Digitalización con láser 3D y LiDAR aéreo de 30 infraestructuras hidráulicas. Error máximo de 1 cm entre nubes estáticas.
-
-- [Diputación de Málaga — GIS para servicios urbanos](https://fisotecsolutions.com/casos-de-estudio/diputacion-de-malaga-un-gis-de-futuro-para-el-dia-de-hoy): Unificación y digitalización de infraestructuras locales en plataforma GIS para municipios de menos de 50.000 habitantes.
-
-- [GIS La Línea de la Concepción — Unificación de servicios urbanos](https://fisotecsolutions.com/casos-de-estudio/gis-la-linea-de-la-concepcion-los-beneficios-de-la-unificacion-en-los-servicios-urbanos): Centralización de capas GIS municipales (agua, saneamiento, alumbrado, PGOU) en un único entorno consultivo y editable.
-
-## Blog
-
-Artículos técnicos sobre GIS, Mobile Mapping, BIM, gemelos digitales e inventarios urbanos: https://fisotecsolutions.com/blogs
-
-## Tecnología
-- Captura: Leica Pegasus, Leica BLK2GO, Leica RTC360, DJI Matrice 350 RTK + LiDAR L2, GPS/GNSS, drones UAV
-- Procesado: UBIQUA-IA, TensorFlow/Deep Learning, ArcGIS ESRI, QGIS, PostgreSQL/PostGIS
-- BIM: Autodesk Revit, Graphisoft Archicad, AutoCAD Civil3D, ArcGIS GeoBIM
-- Campo: QField, ArcGIS Field Maps
-
-## Contacto
-- Web: https://fisotecsolutions.com
-- Email: hello@fisotecsolutions.com
-- Teléfono: 953 562 275 / 647 335 053
-- Sede: C/ Eduardo Ortiz Mata, Ed. CEISAL s/n, Pol. Ind. Los Pozuelos, Alcaudete (Jaén) 23660
+**Contacto**: hello@fisotecsolutions.com | 953 562 275 | Alcaudete (Jaén)
